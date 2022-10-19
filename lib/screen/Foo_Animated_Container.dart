@@ -54,7 +54,7 @@ class _Foo_Animated_ContainerState extends State<Foo_Animated_Container> {
                       // bgColor = Colors.blueGrey;
                       myDecor = BoxDecoration(
                         borderRadius: BorderRadius.circular(10),
-                        color: Colors.redAccent,
+                        color: Colors.bluegrey,
                       );
                       flag = true;
                     }
